@@ -2,7 +2,7 @@
   "name": "stlint-v4fire",
   "description": "Stlint rules for V4 projects",
   "homepage": "https://github.com/V4Fire/stlint#readme",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "main": "index.js",
   "license": "MIT",
   "author": "Chupurnov Valeriy<chupurnov@gmail.com>",
@@ -28,14 +28,14 @@
     ]
   },
   "dependencies": {
-    "parse-color": "^1.0.0",
-    "stlint": "^1.0.59",
-    "stylus": "^0.54.7"
+    "parse-color": "1.0.0",
+    "stlint": "1.0.59",
+    "stylus": "0.54.7"
   },
   "devDependencies": {
-    "@v4fire/design-system": "^1.23.0",
-    "@v4fire/linters": "^1.0.0",
-    "chai": "^4.2.0",
-    "mocha": "^6.2.2"
+    "@v4fire/design-system": "1.23.0",
+    "@v4fire/linters": "1.0.0",
+    "chai": "4.2.0",
+    "mocha": "6.2.2"
   }
 }
